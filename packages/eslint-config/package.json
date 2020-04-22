@@ -1,12 +1,15 @@
 {
   "name": "@dooz/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Complete ESLint configuration for React project (typescript)",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "author": "Daniel Beutner",
+  "author": "Daniel Beutner <daniel@beutner.dev>",
   "license": "MIT",
   "devDependecies": {
     "@dooz/prettier-config": "1.x",
@@ -49,6 +52,6 @@
     "typescript": "3.8.x"
   },
   "dependencies": {
-    "@dooz/eslint-config-base": "^1.0.3"
+    "@dooz/eslint-config-base": "^1.0.0"
   }
 }
