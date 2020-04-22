@@ -26,6 +26,9 @@ jobs:
           node-version: 12
           registry-url: https://registry.npmjs.org/
       - run: npm ci
-      - run: npm run publish
+      - run: |
+          git config --global user.name 'Daniel Beutner'
+          git config --global user.email 'daniel@beunter.dev'
+          npm run publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
