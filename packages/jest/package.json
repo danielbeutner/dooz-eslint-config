@@ -1,0 +1,17 @@
+{
+  "name": "@dooz/eslint-config-jest",
+  "version": "1.0.0",
+  "description": "Jest ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Daniel Beutner",
+  "license": "MIT",
+  "dependencies": {
+    "@dooz/eslint-config-base": "1.x"
+  },
+  "peerDependecies": {
+    "eslint-plugin-jest": "23.x"
+  }
+}

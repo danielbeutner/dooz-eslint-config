@@ -1,0 +1,23 @@
+{
+  "name": "@dooz/eslint-config-base",
+  "version": "1.0.0",
+  "description": "Basic ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Daniel Beutner",
+  "license": "MIT",
+  "peerDependecies": {
+    "babel-eslint": "10.x",
+    "eslint-config-prettier": "3.x",
+    "eslint-plugin-prettier": "6.x",
+    "eslint-config-standard": "14.x",
+    "eslint-plugin-import": "",
+    "eslint": "6.x",
+    "prettier": "2.x"
+  },
+  "dependencies": {
+    "@dooz/prettier-config": "^1.0.0"
+  }
+}

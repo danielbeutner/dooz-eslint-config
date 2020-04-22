@@ -1,0 +1,25 @@
+{
+  "name": "@dooz/eslint-config-monorepo",
+  "private": true,
+  "prettier": "@dooz/prettier-config",
+  "devDependencies": {
+    "@dooz/prettier-config": "^1.0.0",
+    "babel-eslint": "10.x",
+    "eslint": "6.x",
+    "eslint-config-prettier": "6.x",
+    "eslint-config-standard": "14.x",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jest": "^23.8.2",
+    "eslint-plugin-node": "^9.2.0",
+    "eslint-plugin-prettier": "3.x",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "lerna": "^3.20.2",
+    "prettier": "2.x"
+  },
+  "scripts": {
+    "lint": "eslint ./packages",
+    "postinstall": "lerna bootstrap --no-ci",
+    "publish": "lerna publish"
+  }
+}
