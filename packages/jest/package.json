@@ -6,11 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "author": "Daniel Beutner",
+  "author": "Daniel Beutner <daniel@beutner.dev>",
   "license": "MIT",
-  "dependencies": {
-    "@dooz/eslint-config-base": "1.x"
-  },
   "peerDependecies": {
     "eslint-plugin-jest": "23.x"
   }

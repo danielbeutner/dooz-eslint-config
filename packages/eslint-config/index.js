@@ -29,14 +29,18 @@ module.exports = {
   overrides: [
     {
       files: ['**/*.ts?(x)'],
+
       parser: '@typescript-eslint/parser',
+
       parserOptions: {
         ...parserOptions,
 
         // typescript-eslint specific options
         warnOnUnsupportedTypeScriptVersion: true,
       },
+
       plugins: ['@typescript-eslint/eslint-plugin'],
+
       rules: {
         'no-unused-vars': 'off',
         '@typescript-eslint/no-unused-vars': 'error',
