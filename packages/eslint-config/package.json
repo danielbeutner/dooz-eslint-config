@@ -1,6 +1,6 @@
 {
   "name": "@dooz/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Complete ESLint configuration for React project (typescript)",
   "main": "index.js",
   "publishConfig": {
@@ -52,6 +52,6 @@
     "typescript": "3.8.x"
   },
   "dependencies": {
-    "@dooz/eslint-config-base": "^1.0.0"
+    "@dooz/eslint-config-base": "^1.0.4"
   }
 }

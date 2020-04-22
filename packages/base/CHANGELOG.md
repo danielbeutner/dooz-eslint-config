@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.4 (2020-04-22)
+
+
+### Bug Fixes
+
+* set private flags and add publish configs ([184bf5d](https://github.com/danielbeutner/dooz-eslint-config/commit/184bf5dc83d8edcaeb88473628f15d19e72f499a))
+
+
+
+
+
 ## 1.0.3 (2020-04-22)
 
 
