@@ -1,6 +1,5 @@
 {
   "name": "@dooz/eslint-config-monorepo",
-  "private": true,
   "license": "MIT",
   "author": "Daniel Beutner <daniel@beutner.dev>",
   "description": "ESLint configuration monorepo",
