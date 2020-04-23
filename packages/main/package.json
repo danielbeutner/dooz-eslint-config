@@ -1,6 +1,6 @@
 {
   "name": "@dooz/eslint-config",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Complete ESLint configuration for React project (typescript)",
   "main": "index.js",
   "publishConfig": {
@@ -13,7 +13,7 @@
   "license": "MIT",
   "prettier": "@dooz/prettier-config",
   "dependencies": {
-    "@dooz/eslint-config-base": "^1.0.8",
+    "@dooz/eslint-config-base": "^1.0.9",
     "@dooz/prettier-config": "^1.0.0"
   },
   "devDependencies": {
