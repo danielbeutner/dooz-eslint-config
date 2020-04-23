@@ -1,6 +1,5 @@
 module.exports = {
   extends: [
-    './packages/base',
-    './packages/jest',
+    '@dooz/eslint-config-base',
   ],
 }
