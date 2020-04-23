@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.5 (2020-04-23)
+
+
+### Bug Fixes
+
+* fix module imports ([f8da274](https://github.com/danielbeutner/dooz-eslint-config/commit/f8da2747e65d3e51743af8b55ea7445a48ccbfc7))
+
+
+
+
+
 ## 1.0.4 (2020-04-22)
 
 
