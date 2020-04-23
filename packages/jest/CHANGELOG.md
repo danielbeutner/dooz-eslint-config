@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.8 (2020-04-23)
+
+
+### Bug Fixes
+
+* version mismatch in peer deps ([a8e2736](https://github.com/danielbeutner/dooz-eslint-config/commit/a8e2736e3ac61026d6bc7108523a229a2e6ec3d4))
+
+
+
+
+
 ## 1.0.7 (2020-04-23)
 
 
