@@ -9,7 +9,7 @@ module.exports = {
     // See: https://github.com/prettier/eslint-plugin-prettier#recommended-configuration
     'plugin:prettier/recommended',
     'prettier/standard',
-  ],
+  ].map(require.resolve),
 
   env: {
     browser: true,

@@ -1,4 +1,4 @@
-import base from '@dooz/eslint-config-base'
+const base = require('@dooz/eslint-config-base')
 
 const parserOptions = {
   ...base.parserOptions,
@@ -14,7 +14,7 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:react-hooks/recommended',
     'prettier/react',
-  ],
+  ].map(require.resolve),
 
   plugins: ['jsx-a11y', 'react', 'react-hooks'],
 
