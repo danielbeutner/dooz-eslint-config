@@ -14,7 +14,8 @@ jobs:
         with:
           node-version: 12
       - run: npm ci
-      - run: npm test
+      - run: npm run lint
+      - run: npm run test
 
   publish-npm:
     needs: build
@@ -26,7 +27,8 @@ jobs:
           node-version: 12
           registry-url: https://registry.npmjs.org/
       - run: npm ci
-      - run: |
+      - name: Publish packages to npm
+        run: |
           git config --global user.name 'Daniel Beutner'
           git config --global user.email 'daniel@beunter.dev'
           npm run publish
