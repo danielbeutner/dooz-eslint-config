@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.7 (2020-04-23)
+
+
+### Bug Fixes
+
+* typo ([74ea574](https://github.com/danielbeutner/dooz-eslint-config/commit/74ea574a9c5df4846957e16bc1dab46a8e8a7bb8))
+
+
+
+
+
 ## 1.0.6 (2020-04-23)
 
 
