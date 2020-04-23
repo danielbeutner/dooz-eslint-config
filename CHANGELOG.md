@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.6 (2020-04-23)
+
+
+### Bug Fixes
+
+* order deps ([6381cfc](https://github.com/danielbeutner/dooz-eslint-config/commit/6381cfc1ae5b7cf117e586b5f7300b9cdc0123cb))
+
+
+
+
+
 ## 1.0.5 (2020-04-23)
 
 
