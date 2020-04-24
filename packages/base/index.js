@@ -26,4 +26,9 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: 'module',
   },
+
+  rules: {
+    curly: ['error', 'all'],
+    'no-confusing-arrow': ['error', { allowParens: false }],
+  },
 }
