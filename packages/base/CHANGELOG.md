@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.10 (2020-04-24)
+
+
+### Bug Fixes
+
+* extend ts config with prettier ([814e560](https://github.com/danielbeutner/dooz-eslint-config/commit/814e560f9f63192f6eee130ebf353a03d3bbda00))
+
+
+
+
+
 ## 1.0.9 (2020-04-23)
 
 **Note:** Version bump only for package @dooz/eslint-config-base
