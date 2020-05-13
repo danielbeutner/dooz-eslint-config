@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.12 (2020-05-13)
+
+
+### Bug Fixes
+
+* **lint:** apply correct formatting ([927d738](https://github.com/danielbeutner/dooz-eslint-config/commit/927d7380c9e292c14de2b59ce354a01187dded15))
+
+
+
+
+
 ## 1.0.11 (2020-05-04)
 
 **Note:** Version bump only for package @dooz/eslint-config-monorepo
