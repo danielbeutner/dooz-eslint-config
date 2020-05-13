@@ -1,5 +1,3 @@
 module.exports = {
-  extends: [
-    '@dooz/eslint-config-base',
-  ],
+  extends: ['@dooz/eslint-config-base'],
 }
