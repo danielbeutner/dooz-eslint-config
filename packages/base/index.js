@@ -31,4 +31,4 @@ module.exports = {
     curly: ['error', 'all'],
     'no-confusing-arrow': ['error', { allowParens: false }],
   },
-}
+};

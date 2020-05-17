@@ -11,9 +11,8 @@
   },
   "author": "Daniel Beutner <daniel@beutner.dev>",
   "license": "MIT",
-  "prettier": "@dooz/prettier-config",
   "dependencies": {
-    "@dooz/prettier-config": "^1.0.0"
+    "@dooz/prettier-config": "^1.1.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",

@@ -1,11 +1,11 @@
-const base = require('@dooz/eslint-config-base')
+const base = require('@dooz/eslint-config-base');
 
 const parserOptions = {
   ...base.parserOptions,
   ecmaFeatures: {
     jsx: true,
   },
-}
+};
 
 module.exports = {
   extends: [
@@ -49,4 +49,4 @@ module.exports = {
       },
     },
   ],
-}
+};

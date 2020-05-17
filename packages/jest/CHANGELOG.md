@@ -5,14 +5,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 1.0.14 (2020-05-17)
 
-
 ### Bug Fixes
 
-* commit hook optimsed for prettier ([a355a98](https://github.com/danielbeutner/dooz-eslint-config/commit/a355a981e19cf2885c66b82f119db1719a558b02))
-
-
-
-
+- commit hook optimsed for prettier ([a355a98](https://github.com/danielbeutner/dooz-eslint-config/commit/a355a981e19cf2885c66b82f119db1719a558b02))
 
 ## 1.0.13 (2020-05-17)
 
