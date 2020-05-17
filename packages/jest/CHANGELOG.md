@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.14 (2020-05-17)
+
+
+### Bug Fixes
+
+* commit hook optimsed for prettier ([a355a98](https://github.com/danielbeutner/dooz-eslint-config/commit/a355a981e19cf2885c66b82f119db1719a558b02))
+
+
+
+
+
 ## 1.0.13 (2020-05-17)
 
 **Note:** Version bump only for package @dooz/eslint-config-jest
