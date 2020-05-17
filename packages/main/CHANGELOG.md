@@ -7,10 +7,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @dooz/eslint-config
 
-
-
-
-
 ## 1.0.12 (2020-05-13)
 
 ### Bug Fixes

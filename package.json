@@ -6,6 +6,8 @@
   "description": "ESLint configuration monorepo",
   "prettier": "@dooz/prettier-config",
   "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
     "@dooz/eslint-config-base": "file:./packages/base",
     "@dooz/prettier-config": "^1.0.0",
     "babel-eslint": "^10.1.0",
@@ -31,7 +33,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "lint-staged": {
