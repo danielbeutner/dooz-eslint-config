@@ -1,6 +1,6 @@
 {
   "name": "@dooz/eslint-config-base",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Basic ESLint configuration",
   "main": "index.js",
   "publishConfig": {
