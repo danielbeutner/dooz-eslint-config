@@ -1,6 +1,6 @@
 {
   "name": "@dooz/eslint-config-jest",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Jest ESLint configuration",
   "main": "index.js",
   "publishConfig": {
